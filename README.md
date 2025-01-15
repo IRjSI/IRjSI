@@ -1,6 +1,6 @@
 # Hi there, I'm RjS 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Full-stack+developer;Open-source+contributor;Lifelong+learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Web+developer;Lifelong+learner)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
