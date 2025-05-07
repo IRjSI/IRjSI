@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there, I'm RjS 👋🏻 \
-I'm a passionate web developer currently learning MERN stack
+Turning complex ideas into slick, fast UIs using MERN.
 
 # 💻 Tech Stack:
 <!-- Core Web -->
